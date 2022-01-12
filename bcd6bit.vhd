@@ -31,7 +31,4 @@ begin
 
 d0 <= dd0(3 downto 0);
 d1 <= dd1(3 downto 0);
-	
-
-
 end Behavioral;
